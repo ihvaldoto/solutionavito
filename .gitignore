@@ -1,0 +1,15 @@
+# данные выдаются организаторами, в репозиторий не кладём
+data/
+
+# окружение и служебные папки
+.venv/
+venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+
+# исходный шаблон от авитотеха и черновики мои неудавшиеся
+quickstart.ipynb
+solut.py
+solutv3.py
